@@ -1,19 +1,7 @@
-## Motivation
-I type everyday of the week.  For five of those seven days, i type for about 6-7 hours.
-It makes sense, removing my will for complacency, that i switch to a more efficient keyboard, if there is one.
-I present to you, Real Programmers Dvorak.
+## Modified Programmer Dvorak
 
-## Why Dvorak?
-Dvorak comes on evey major OS.
-
-## Why change programmers Dvorak?
-The major problems around PD is that it has a poorly thought out symbol layout.
-
-* (, ), {, }, [, ]
-** The opening and closing symbols are oddly placed.  It makes so much more sense that finger used to open is the same finger on the closing hand.
+A modified version of programmer dvorak with intuitive numbers and symbols and swapped caps lock with escape for use with vim.
 
 ## Preview
-Base layer:
-![base layer](./rpd.PNG)
-Shift layer:
-![shift layer](./rpd-shift.PNG)
+Created with [keyboard-layout-editor](http://www.keyboard-layout-editor.com/#/gists/c35da62557f52344e5ba1b9343461f63)
+![Layout:](./modified_dvorak_programmer.png)
