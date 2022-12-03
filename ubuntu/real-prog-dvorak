@@ -36,8 +36,8 @@ xkb_symbols "real-prog-dvorak" {
     key <AC01> { [          a,  A               ]       };
     key <AC02> { [          o,  O               ]       };
     key <AC03> { [          e,  E               ]       };
-    key <AC04> { [          u,  U               ]       };
-    key <AC05> { [          i,  I               ]       };
+    key <AC04> { [          i,  I               ]       };
+    key <AC05> { [          u,  U               ]       };
     key <AC06> { [          d,  D               ]       };
     key <AC07> { [          h,  H               ]       };
     key <AC08> { [          t,  T               ]       };
