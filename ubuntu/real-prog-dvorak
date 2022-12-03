@@ -31,7 +31,7 @@ xkb_symbols "real-prog-dvorak" {
     key <AD09> { [          r,  R               ]       };
     key <AD10> { [          l,  L               ]       };
     key <AD11> { [      slash,  question        ]       };
-    key <AD12> { [      at,     asciicircum             ]       };
+    key <AD12> { [      numbersign,     asciicircum             ]       };
 
     key <AC01> { [          a,  A               ]       };
     key <AC02> { [          o,  O               ]       };
@@ -56,7 +56,7 @@ xkb_symbols "real-prog-dvorak" {
     key <AB09> { [          v,  V               ]       };
     key <AB10> { [          z,  Z               ]       };
 
-    key <BKSL> { [  backslash,  numbersign             ]       };
+    key <BKSL> { [  backslash,  at             ]       };
     key <ESC>  { [  Caps_Lock,  Caps_Lock,  Caps_Lock,  Caps_Lock ] };
     key <CAPS> { [  Escape, Escape, Escape, Escape ]};
 };
