@@ -1,1 +1,12 @@
 Also look at adding norsk dvorak for learning norwegian - also dvorak alternative for swedish too (definitely worth spending time in)
+
+Look into making a heuristics-based keyboard layout modifier:
+    add heuristics for limiting the position of j cannot be above k for example.
+    with clever structure should be able to make it really quick
+    potentially add preferences as well - prefer for navigation (hjkl) to be on the right hand
+
+    heuristics:
+        
+        j cannot be above k
+        h must be to left of l
+
